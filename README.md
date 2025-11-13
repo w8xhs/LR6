@@ -20,3 +20,23 @@
 git config --global user.name "4415 Алтухов Н.А."
 git config --global user.email "altuhov288@gmail.com"
 ```
+
+## 4. Клонирование репозитория
+Клонировал свой форк на локальный компьютер
+
+### Лог команд:
+```bash
+git clone https://github.com/w8xhs/LR6.git
+cd LR6
+```
+
+## 5. Добавление файла через GitHub
+Добавил файл info.txt через веб-интерфейс GitHub
+
+## 6. Подтягивание изменений
+Выполнил подтягивание изменений из удаленного репозитория
+
+### Лог команд:
+```bash
+git pull origin master
+```
